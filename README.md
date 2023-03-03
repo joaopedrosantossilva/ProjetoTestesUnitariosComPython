@@ -1,5 +1,9 @@
 # ETA
 
+## Relatorio dos testes
+![image](https://user-images.githubusercontent.com/63526312/222855496-327c42b6-2969-4252-87f3-3397bba45f7a.png)
+
+
 ## Setup
 
 ```bash
