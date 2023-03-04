@@ -1,6 +1,6 @@
 # ETA
 
-## Relatorio dos testes
+## Relatorio de cobertura de testes
 ![image](https://user-images.githubusercontent.com/63526312/222859740-900d1c48-ccd3-4663-aecc-63059d934f70.png)
 
 
