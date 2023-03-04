@@ -1,7 +1,7 @@
 # ETA
 
 ## Relatorio dos testes
-![image](https://user-images.githubusercontent.com/63526312/222855496-327c42b6-2969-4252-87f3-3397bba45f7a.png)
+![image](https://user-images.githubusercontent.com/63526312/222859740-900d1c48-ccd3-4663-aecc-63059d934f70.png)
 
 
 ## Setup
