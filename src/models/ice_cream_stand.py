@@ -1,6 +1,5 @@
 from src.models.restaurant import Restaurant
 
-
 class IceCreamStand(Restaurant):
     """Um tipo especializado de restaurante."""
 

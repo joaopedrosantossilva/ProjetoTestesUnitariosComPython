@@ -53,6 +53,8 @@ class TestIceCreamStand:
 
         # AVALIACAO
         assert msg == result
+
+    def test_find_flavor_no_stock_for_product(self):
         # SETUP
         nome = "Sorvete do Ze"
         cuisine_type = "Sorveteria"
@@ -62,19 +64,6 @@ class TestIceCreamStand:
 
         # CHAMADA
         result = iceCreamStand.find_flavor('Limão')
-
-        # AVALIACAO
-        assert msg == result
-    def test_add_flavor_out_of_stock(self):
-        # SETUP
-        nome = "Sorvete do Ze"
-        cuisine_type = "Sorveteria"
-        flavors = []
-        iceCreamStand = IceCreamStand(nome, cuisine_type, flavors)
-        msg = 'Estamos sem estoque atualmente!'
-
-        # CHAMADA
-        result = iceCreamStand.add_flavor('Limão')
 
         # AVALIACAO
         assert msg == result
